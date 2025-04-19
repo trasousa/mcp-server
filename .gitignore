@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*__pycache__/
+
+# Secrets and credentials
+secrets/*.json
+
+# Cache
+.pytest_cache
+.ruff_cache
+
+# IDE/editor-specific
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
